@@ -1,12 +1,11 @@
-# React + Vite
+🏦 Currency Converter
+This project is a currency converter application that allows you to quickly and easily convert between different currencies. Built with React and Axios, it fetches real-time exchange rates using the FreeCurrencyAPI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features:
+Convert entered amounts between selected currencies
 
-Currently, two official plugins are available:
+Supports conversion between USD, EUR, and TRY
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Real-time API integration
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📌 Technologies: React, Axios, FreeCurrencyAPI, CSS
